@@ -21,7 +21,8 @@ This project aims to develop a tool for predicting mental health trends within t
 - Improved model accuracy
 - Provided actionable insights into mental health trends
 
-## How to Run
-- Clone this repository
-- Install required libraries: `pip install -r requirements.txt`
-- Run the Jupyter notebooks or Python scripts in the `src` directory
+## XGBoost with LIME
+![image](https://github.com/meggie2002/Predictive-Mental-Health-Analysis/assets/171136650/f1678ca5-0904-45f0-87da-be462bc34b0b)
+![image](https://github.com/meggie2002/Predictive-Mental-Health-Analysis/assets/171136650/51e91238-bc8b-494e-8806-f9d6c6712b16)
+
+
