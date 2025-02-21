@@ -58,11 +58,11 @@ This project leverages machine learning to analyze data from the Open-Source Men
 ![image](https://github.com/user-attachments/assets/df1777de-de60-4455-a41e-994663d4c1b6)
 
 
-2. XGBoost with LIME:
+2. **XGBoost with LIME**:
   * Used LIME to explain individual predictions, highlighting the contribution of each feature.
 ![image](https://github.com/meggie2002/Predictive-Mental-Health-Analysis/assets/171136650/f1678ca5-0904-45f0-87da-be462bc34b0b)
   * Visualized feature importance and local interpretability for actionable insights.
 ![image](https://github.com/meggie2002/Predictive-Mental-Health-Analysis/assets/171136650/51e91238-bc8b-494e-8806-f9d6c6712b16)
 
-Conclusion
+## Conclusion
 This project demonstrates the power of machine learning in understanding and predicting mental health trends in the tech industry. By combining XGBoost for accurate predictions and LIME for interpretability, the project provides actionable insights that can help organizations create healthier and more supportive workplace environments. The findings underscore the importance of addressing mental health proactively, especially in high-pressure industries like tech.
